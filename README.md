@@ -1,5 +1,5 @@
 # Salad
 
-[Recipe](recipe.md)
+[Recipe](Recipe.md)
 
-[ingredients](ingredients.md)
+[ingredients](Ingredients.md)
